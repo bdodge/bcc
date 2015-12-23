@@ -1,0 +1,10 @@
+
+get test of non-results working (i.e. if(1) or if 1 ? 3: 2;
+	
+finish ternary and test it, make sure non-acc works putting ternary results in diff regs
+
+make bitfields work
+
+struct and array initializers
+
+move struct alignment to code generator
